@@ -1,4 +1,4 @@
-# SQL_Swiggy_Case_Study
+# Swiggy Case Study
 This repository contains swiggy data for analysis using sql
 
 ## Database and Tools
